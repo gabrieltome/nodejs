@@ -1,3 +1,5 @@
+// hello world
+
 var http = require('http'); //chamando o módulo http do Node.js 
 
 http.createServer(function (req, res) {  // executando a função createServer
