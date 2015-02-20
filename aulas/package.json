@@ -1,10 +1,11 @@
 {
-	"name": "studies-nodejs",
-	"description": "Studies on Nodejs",
-	"author": "Gabriel <gabrieltsistemas@hotmail.com>",
-	"version": "1.0.0",
-	"private": true,
-	"dependencies": {
-		"mongoose": "*"
-	}
+  "name": "studies-nodejs",
+  "description": "Studies on Nodejs",
+  "author": "Gabriel <gabrieltsistemas@hotmail.com>",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.11.2",
+    "mongoose": "*"
+  }
 }
