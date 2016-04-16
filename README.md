@@ -52,7 +52,7 @@ If you want to contribute, feel free. :)
 
 - **[Ryan Dahl's Google Tech Talk](http://www.youtube.com/watch?v=F6k8lTrAE2g)**
 
-- **[]()**
+- **[Node.js - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq)**
 
 ####Ebooks
 
