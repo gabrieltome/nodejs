@@ -58,7 +58,7 @@ If you want to contribute, feel free. :)
 
 - **[Mastering Node](https://github.com/visionmedia/masteringnode)**
 
-- **[]()**
+- **[Mixu's Node book](http://book.mixu.net/node/)**
 
 
 ####Courses
