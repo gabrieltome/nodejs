@@ -84,4 +84,10 @@ If you want to contribute, feel free. :)
 
 ###What's Node.js?
 
+**Node.js** é uma plataforma de código aberto para a execução de JavaScript no servidor. É composto pela junção do interpretador V8 do Google, com a biblioteca libuv e por um conjunto de módulos.
+
+A **libuv** é uma biblioteca multi-plataforma responsável pela realização de *I/O assíncrono*, fornecendo a implementação do *event loop* e do *thread pool*, juntamente com o suporte a TCP e UDP socket, resolução de DNS, sistema de arquivos, processos, entre outras.
+
+O **V8** é um *interpretador de JavaScript de alta performance* desenvolvido pelo Google. Ele tem o código aberto e foi desenvolvido em C++ com o objetivo de atender ao Chrome.
+
 
